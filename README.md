@@ -15,4 +15,7 @@ cd ~/Desktop
 
 Step 3: Run the script
 python3 /Users/meetpatel/Desktop/10k_analyzerv5.py /Users/meetpatel/Desktop/10k_filing.pdf /Users/meetpatel/Desktop/10k_filingPY.pdf /Users/meetpatel/Desktop/10k_filing21.pdf /Users/meetpatel/Desktop/10k_filing19.pdf -o CMGFinancials.xlsx 2>&1
-      If already opened desktop/folder the script and filings are in, then simply type 10k_analyzerv5.py 10k_filing.pdf 10k_filingPY.pdf 10k_filing21.pdf 10k_filing19.pdf -o CMGFinancials.xlsx 2>&1
+      
+      
+      
+If already opened desktop/folder the script and filings are in, then simply type 10k_analyzerv5.py 10k_filing.pdf 10k_filingPY.pdf 10k_filing21.pdf 10k_filing19.pdf -o CMGFinancials.xlsx 2>&1
